@@ -1,4 +1,7 @@
 body {font-family:'Roboto', sans-serif;}
+
+/**---------HEADER---------*/
+
 .header-logo {
     color: var(--iris, #4D5AE5);
         font-family: Raleway;
@@ -42,4 +45,19 @@ body {font-family:'Roboto', sans-serif;}
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
+}
+
+/**-------------HERO-------------*/
+
+.hero-title {
+    color: var(--white, #FFF);
+    text-align: center;
+    /* Header 1 */
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    /* 107.143% */
+    letter-spacing: 1.12px;
 }
