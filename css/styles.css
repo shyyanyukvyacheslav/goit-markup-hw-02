@@ -61,3 +61,44 @@ body {font-family:'Roboto', sans-serif;}
     /* 107.143% */
     letter-spacing: 1.12px;
 }
+.hero-button
+{color: var(--white, #FFF);
+    /* Button Text */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.64px;
+    background-color: #4D5AE5);}
+
+        /**-------------MAIN-GOALS-------------*/
+                 
+        .main-goals {background-color: #FFF;}
+    
+        .main-goals-list {}
+    
+        .list {}
+    
+        .main-goals-item {}
+    
+        .main-goals-subtitle {color: var(--navyblue, #2E2F42);
+            /* Header 3 */
+            font-family: Roboto;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 24px;
+            /* 120% */
+            letter-spacing: 0.4px;}
+    
+        .main-goals-item-text {color: var(--slate, #434455);
+            /* Body */
+            font-family: Roboto;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 24px;
+            /* 150% */
+            letter-spacing: 0.32px;}
